@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/investir/static/css/main.878f5e15.chunk.css",
-    "main.js": "/investir/static/js/main.14b06c59.chunk.js",
-    "main.js.map": "/investir/static/js/main.14b06c59.chunk.js.map",
+    "main.js": "/investir/static/js/main.24dfe5a6.chunk.js",
+    "main.js.map": "/investir/static/js/main.24dfe5a6.chunk.js.map",
     "runtime-main.js": "/investir/static/js/runtime-main.17f2c950.js",
     "runtime-main.js.map": "/investir/static/js/runtime-main.17f2c950.js.map",
     "static/js/2.6ffb3b84.chunk.js": "/investir/static/js/2.6ffb3b84.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.17f2c950.js",
     "static/js/2.6ffb3b84.chunk.js",
     "static/css/main.878f5e15.chunk.css",
-    "static/js/main.14b06c59.chunk.js"
+    "static/js/main.24dfe5a6.chunk.js"
   ]
 }
